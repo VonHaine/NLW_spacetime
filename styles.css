@@ -119,8 +119,8 @@ aside img:nth-child(2) {
   border-radius:50%;
 
   border: 4px solid transparent;
-  background: linear-gradient(#d39333, #ed5636, #633bbc) padding-box,
-    linear-gradient(260deg,#d39333, #ed5636, #633bbc ) border-box;
+  background: linear-gradient(#d39333, #ed5636, #633eca) padding-box,
+    linear-gradient(260deg,#d39333, #ed5636, #6b3eca ) border-box;
 
 }
 
